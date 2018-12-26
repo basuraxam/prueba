@@ -3,13 +3,7 @@ var APP_NAME = 'breaklock',
     CACHE_NAME = APP_NAME + '_' + APP_VERSION;
 var filesToCache = [
   './',
-  './?utm_source=homescreen',
-  './app.css',
-  './app.js',
-  './assets/intro.svg',
-  './assets/fonts/robotomono-light-webfont.woff2',
-  './assets/fonts/robotomono-light-webfont.woff',
-  './assets/fonts/robotomono-light-webfont.ttf'
+  './?utm_source=homescreen'
 ];
 
 // Service worker from Google Documentation

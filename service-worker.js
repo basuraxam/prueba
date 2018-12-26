@@ -1,5 +1,5 @@
-var APP_NAME = 'breaklock',
-    APP_VERSION = 12,
+var APP_NAME = 'holamundo',
+    APP_VERSION = 1,
     CACHE_NAME = APP_NAME + '_' + APP_VERSION;
 var filesToCache = [
   './',
